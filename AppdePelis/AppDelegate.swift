@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  AppdePelis
 //
-//  Created by vector on 9/03/21.
+//  Created by Kevin on 9/03/21.
 //
 
 import UIKit
